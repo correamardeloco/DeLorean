@@ -1,0 +1,70 @@
+body{
+background-color: rgb(34, 153, 189);
+
+
+}
+.wrapper{
+height: 420px;
+width: 654px;
+margin: 50px auto;
+border-radius: 7px 7px 7px 7px;
+-webkit-box-shadow:0px 14px 32px 0px rgba(0,0,0,0.15);
+-moz-box-shadow:0px 14px 32px 0px rgba(0,0,0,0.15);
+box-shadow:0px 14px 32px 0px rgba(0,0,0,0.15);
+
+
+
+
+
+
+}
+
+#gta5{
+float: left;
+height: 420px;
+width: 327px;
+}
+
+
+#olive{
+
+float: left;
+height: 420px;
+width: 327px;
+border-radius: 7px 0 0 7px;
+
+}
+
+.produtoinfo {
+
+float: left;
+height: 420px;
+width: 327px;
+border-radius: 0 7px 10px 7px;
+background-color: rgb(91, 214, 208);
+
+}
+
+.produtotexto{
+
+height: 420px;
+width: 327px;
+
+}
+
+body {
+
+    background-color: rgb(110, 199, 194);
+
+}
+
+.wrapper {
+
+height: 420px;
+width: 654px;
+margin: 50px auto;
+border-radius: 7px 7px 7px 7px;
+
+
+
+}
